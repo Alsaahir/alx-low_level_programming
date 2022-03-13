@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-int main()
+/**
+ * main - main function for source code
+ * puts - prints the text in quotes to standard output
+ */
+int main(void)
 {
-	/* the puts keyword prints the text in the quotes to the 
-	 * standard output
-	 */
 	puts("\"Programming is like building a multilingual puzzle");
-	return 0;
+	return (0);
 }
