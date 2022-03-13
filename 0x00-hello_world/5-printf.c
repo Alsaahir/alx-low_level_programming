@@ -1,7 +1,7 @@
 #include <stdio.h>
 /** 
  * printf prints the text in the quotes to the standard output
- * return - returns 0 (Succees)
+ * return - returns(Succees)
  */
 int main(void)
 {
