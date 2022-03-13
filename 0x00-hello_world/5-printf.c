@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /** 
- * printf prints the text in the quotes to the standard output
+ * printf - prints the text in the quotes to the standard output
  * return 0: returns (Succees)
  */
 int main(void)
