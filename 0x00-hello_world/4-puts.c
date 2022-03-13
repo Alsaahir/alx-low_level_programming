@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
  * main - main function for source code
- * puts - prints the text in quotes to standard output
+ * puts:  prints the text in quotes to standard output
  */
 int main(void)
 {
