@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
- * Description: using the putchar function to print 
- * letters of the alphabet
+ * Description: using the putchar function
+ * to print letters of the alphabet
  * Return: 0 (Succes)
  */
 int main(void)
@@ -14,6 +15,5 @@ int main(void)
 		c++;
 	}
 	putchar('\n');
-
 	return (0);
 }
