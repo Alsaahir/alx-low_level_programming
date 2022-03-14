@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * Description: Print statements based on 
+ * Description: Print statements based on
  * the last digit of the random number
  * Return: 0 (Success)
  */
@@ -12,6 +12,7 @@ int main(void)
 {
 	int n;
 	int m;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	m = n % 10;
