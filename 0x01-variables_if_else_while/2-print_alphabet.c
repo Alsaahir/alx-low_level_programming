@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /**
+ * main - Entry point
  * Description: using the putchar function
  * to print letters of the alphabet
  * Return: 0 (Succes)
