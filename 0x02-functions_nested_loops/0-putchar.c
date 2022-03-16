@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  * Description: prints "_putchar"
- * returns 0: (success)
+ * Return: Always 0.
  */
-int main(void) /* set to void */
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
