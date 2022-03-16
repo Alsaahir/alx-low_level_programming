@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - Entry point
+ * _isalpha - Entry point.
  * Description: checks if character is alphabet
  * @c: contains character to be evaluated
  * return: always 0.
