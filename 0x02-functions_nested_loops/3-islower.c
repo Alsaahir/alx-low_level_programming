@@ -4,7 +4,7 @@
  * _islower - Entry point
  * Description: check if character is lowercase
  * Return: Always 0.
- * c: holds the character under evaluation
+ * int c: holds the character under evaluation
  */
 int _islower(int c)
 {
