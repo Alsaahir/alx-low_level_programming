@@ -22,6 +22,5 @@ int main(void)
 		s = a + b;
 	}
 	printf("%ld\n", s);
-
 	return (0);
 }
