@@ -4,8 +4,7 @@
  * _isalpha - Entry point.
  * Description: checks if character is alphabet
  * @c: contains character to be evaluated
- * return: 1 if true
- * return: 0 if false.
+ * return: 1 if true and 0 if false.
  */
 int _isalpha(int c)
 {
