@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabbet - Entry point
  * description: Print the Alphabet
  *
  * Return: Always 0.
  */
-int main(void)
+int print_alphabet(void)
 {
 	char c;
 
