@@ -36,6 +36,6 @@ int main(void)
 		e0 = i0 + j0 + ((i1 + j1) / 1000000000);
 		e1 = (i1 + j1) % 1000000000;
 	}
-    printf("%lu%lu\n", e0, e1);
-    return (0);
+       	printf("%lu%lu\n", e0, e1);
+       	return (0);
 }
