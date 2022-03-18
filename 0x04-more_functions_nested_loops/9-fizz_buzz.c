@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - Fizz buzz.
+ *
+ *Return:void.
+ */
 int main(void)
 {
 	int i;
