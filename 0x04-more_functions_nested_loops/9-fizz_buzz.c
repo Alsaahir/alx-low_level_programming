@@ -2,7 +2,6 @@
 
 /**
  * main - Fizz buzz.
- *
  *Return: void.
  */
 int main(void)
