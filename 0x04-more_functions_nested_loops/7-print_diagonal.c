@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_diagonal - print a diagonal line
@@ -22,5 +22,7 @@ void print_diagonal(int n)
 		}
 	}
 	else
+	{
 		_putchar('\n');
+	}
 }
