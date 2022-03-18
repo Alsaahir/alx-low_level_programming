@@ -6,6 +6,7 @@
   "C_Cpp_Runner.warnings": [
     "-Wall",
     "-Wextra",
+    "-Werror",
     "-Wpedantic"
   ],
   "C_Cpp_Runner.enableWarnings": true,
