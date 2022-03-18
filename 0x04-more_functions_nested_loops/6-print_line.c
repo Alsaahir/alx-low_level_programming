@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_line - prints a line n times.
- * @n: integer.
- * return: void.
+ * print_line - print a line
+ * @n:integer.
+ * Return:void.
  */
 void print_line(int n)
 {
@@ -15,10 +15,11 @@ void print_line(int n)
 		{
 			_putchar('_');
 		}
-		_putchar("\n");
+
+	_putchar('\n');
 	}
 	else
 	{
-		_putchar("\n");
+		_putchar('\n');
 	}
 }
