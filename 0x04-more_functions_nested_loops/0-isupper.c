@@ -2,7 +2,6 @@
 
 /**
  * _isupper - Check if uppercase
- *
  * @c: integer.
  * return: 0 success
  */
