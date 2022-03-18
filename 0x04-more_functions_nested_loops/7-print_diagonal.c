@@ -1,9 +1,9 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * print_diagonal - print a diagonal line.
- * @n: integer.
- * Return: void.
+ * print_diagonal - print a diagonal line
+ * @n: integer
+ * Return: void
  */
 void print_diagonal(int n)
 {
@@ -15,14 +15,12 @@ void print_diagonal(int n)
 		{
 			for (j = 0; j < i; j++)
 			{
-				_putchar(20);
+				_putchar(' ');
 			}
 			_putchar('\\');
 			_putchar('\n');
 		}
 	}
 	else
-	{
 		_putchar('\n');
-	}
 }
