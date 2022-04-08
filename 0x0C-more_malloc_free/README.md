@@ -4,3 +4,4 @@
 1-string_nconcat.c is a function that concatenates two strings.<br />
 2-calloc.c is a function that allocates memory for an array, using malloc.<br />
 3-array_range.c is a function that creates an array of integers.<br />
+100-realloc.c is a function that reallocates a memory block using malloc and free.<br />
