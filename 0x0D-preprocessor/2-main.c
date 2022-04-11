@@ -1,4 +1,4 @@
-#include <stdlib>
+#include <stdio>
 
 /**
  * main - print file name
