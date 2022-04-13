@@ -11,4 +11,5 @@
     * *: multiplication
     * /: division
     * %: modulo
-* The program prints the result of the operation, followed by a new line.
+* The program prints the result of the operation, followed by a new line.<br />
+100-main_opcodes.c is a program that prints the opcodes of its own main function.
