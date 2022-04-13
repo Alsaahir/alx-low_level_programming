@@ -31,4 +31,5 @@ int main(int argc, char *argv[])
 			printf("%02hhx ", p[i++]);
 		printf("%hhx\n", p[i]);
 	}
-	
+	rerurn (0);
+}
