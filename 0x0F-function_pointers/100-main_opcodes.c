@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 /**
  * main - prints opcode of own main function
  *
@@ -31,5 +32,5 @@ int main(int argc, char *argv[])
 			printf("%02hhx ", p[i++]);
 		printf("%hhx\n", p[i]);
 	}
-	rerurn (0);
+	return (0);
 }
